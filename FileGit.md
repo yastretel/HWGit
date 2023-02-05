@@ -21,5 +21,4 @@
 * git checkout - переключение между веток
 
 
-
-fff
+Conflict
